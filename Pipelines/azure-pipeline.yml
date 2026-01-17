@@ -1,0 +1,9 @@
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- script: echo "Day 3: My first Azure DevOps pipeline"
+  displayName: "Print pipeline message"
