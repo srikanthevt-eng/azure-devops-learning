@@ -1,0 +1,3 @@
+Day 1: Starting my azure devops journey 
+completed Azure basics refresh 
+Installed Git, VS code, and created Git hub account.
